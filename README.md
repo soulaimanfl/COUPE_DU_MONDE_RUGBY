@@ -1,4 +1,4 @@
-Rugby world championship
+# Rugby world championship
 Modeling the rugby world championship.
 
 Thanks to the stored data, we should be able to find the following information :
